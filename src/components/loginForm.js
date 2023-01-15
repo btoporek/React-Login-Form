@@ -35,7 +35,7 @@ export default class LoginForm extends React.Component {
               </div>
               <div className="card-footer">
                 <button className="btn btn-primary" type="submit">
-                  Login
+                  Log in
                 </button>
               </div>
             </div>
